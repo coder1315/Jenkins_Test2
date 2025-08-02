@@ -1,1 +1,1 @@
-Print("Hi Nitya")
+print("Hi Nitya")
